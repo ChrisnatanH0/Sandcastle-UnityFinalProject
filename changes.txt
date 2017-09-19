@@ -1,0 +1,3 @@
+v0.2 Changes:
+- Added sound effects.
+- Fixed script to increase enemy spawn rate over time.
